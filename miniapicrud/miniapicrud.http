@@ -1,0 +1,6 @@
+@miniapicrud_HostAddress = http://localhost:5212
+
+GET {{miniapicrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
